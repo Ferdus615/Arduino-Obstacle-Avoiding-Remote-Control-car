@@ -1,11 +1,11 @@
 # Arduino-Obstacle-Avoiding-Remote-Control-car
 
 ## About the project
-This remote control arduino obstacle avoiding car can be controlled via a bluetooth remote or any android phone from a distance. Making this a great use for entartainment & a great aparautus for rescue mission also. 
+This remote control Arduino obstacle avoiding car can be controlled via a Bluetooth remote or any android phone from a distance. Making this a great use for entertainment & a great apparatus for rescue mission also.
 
-This system cana be also used to avoid and reduce accedent rate by detecting obstaacle and avoiding them or/and braking automatically.
+This system can be also used to avoid and reduce accident rate by detecting obstacle and avoiding them or/and braking automatically.
 
-Now at first and somtimes it is very hard and tricky to control this robot car as it it very fast and nimble so this ibstacle avoiding system is also a seafty feature for itself. So, it can detect and avoid obstacle to avoid damages to itself.
+Now at first and sometimes it is very hard and tricky to control this robot car as it it very fast and nimble so this obstacle avoiding system is also a safety feature for itself. So, it can detect and avoid obstacle to avoid damages to itself.
 
 ## Components Used
 * Arduino Uno R3 x1
