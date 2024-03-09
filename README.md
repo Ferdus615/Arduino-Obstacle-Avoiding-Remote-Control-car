@@ -18,3 +18,8 @@ Now at first and sometimes it is very hard and tricky to control this robot car 
 * Gear Motor x4
 * Wheel x4
 * 3.7v Power Supply x2
+
+## Android App Link
+https://bluetooth-rc-car.en.softonic.com/android
+
+You can use this app to control the car remotely
